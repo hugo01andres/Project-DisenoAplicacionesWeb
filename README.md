@@ -14,7 +14,9 @@ STACK: Angular, Python, Flask, PostgresSQL, SQLALCHEMY
 3. Activate virtual environmet for Mac: `env/bin/activate`
 3. Activate virtual environment for Wds: `env\Scripts\activate`
 4. Install Python dependencies by running `pip install -r requirements.txt`.
-5. Install Angular dependencies by running `npm install`.
+5. Create a db name taskManager in potgresql
+6. `cd backend` and run `flask db upgrade`
+7. Install Angular dependencies by running `npm install`.
 
 ## Execution
 
