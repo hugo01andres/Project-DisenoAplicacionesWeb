@@ -7,6 +7,7 @@ STACK: Angular, Python, Flask, PostgresSQL, SQLALCHEMY
 - Python 3.x
 - Angular CLI
 - Postgresql
+- prueba
 
 ## Environment Setup
 
