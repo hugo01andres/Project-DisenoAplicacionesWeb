@@ -3,7 +3,7 @@
 STACK: Angular, Python, Flask, PostgresSQL, SQLALCHEMY
 
 ## Requirements
-
+# Please install the following:
 - Python 3.x
 - Angular CLI
 
