@@ -99,7 +99,7 @@ class Register(Resource):
         super().__init__(**kwargs)
     
     @api.doc('Register_user')
-    @api.expect(CreateUserDto)
+   # @api.expect(CreateUserDto)
     def post(self):
         """Register a new user"""
         data = api.payload.copy()

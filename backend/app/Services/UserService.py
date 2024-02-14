@@ -15,6 +15,7 @@ class UserService:
         return self.user_repository.get_all()
 
     def create(self,name, username, email, password):
+        print(name, username, email, password)
         user = User(name=name, username=username, email=email, password=password)
         return self.user_repository.add(user)
 
